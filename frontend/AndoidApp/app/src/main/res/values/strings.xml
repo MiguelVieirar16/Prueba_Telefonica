@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Prueba Telefonica</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_email">Email</string>
+
+    <string-array name="telf_array">
+        <item><big>"0414"</big></item>
+        <item><big>"0424"</big></item>
+    </string-array>
+
+    <string-array name="identidad_array">
+        <item>"V"</item>
+        <item>"E"</item>
+        <item>"J"</item>
+        <item>"P"</item>
+        <item>"G"</item>
+    </string-array>
+
+    <!--Textos-->
+    <string name="empty">"*Campo obligatorio"</string>
+    <string name="trues">true</string>
+    <string name="fallo_conexion">"Fallo de conexión, intentelo denuevo"</string>
+    <string name="ci_invalida">"CI inválida"</string>
+    <string name="code_invalido">"Código inválido"</string>
+    <string name="rif_invalido">"RIF inválido"</string>
+    <string name="invalido">"CI o RIF inválido"</string>
+    <string name="nombre_valido">"Datos inválidos"</string>
+    <string name="correo_invalido">"Ingrese un correo válido Ejem. tunombre@dominio.com"</string>
+    <string name="telefono_invalido">"Ingrese un número telefónico válido"</string>
+
+    <!--LoginActivity-->
+    <string name="bienvenida">Bienvenidos a la App de Miguel</string>
+    <string name="datos">Ingresa con los datos del titular de la línea</string>
+    <string name="et_telefono">Número telefónico</string>
+    <string name="et_cedula">Identificación</string>
+    <string name="btnLogin">Iniciar sesión</string>
+
+    <!--DataActivity-->
+    <string name="et_nombre">Nombre</string>
+    <string name="et_apellido">Apellidos</string>
+    <string name="et_correo">Correo electrónico</string>
+</resources>
