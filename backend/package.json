@@ -1,0 +1,19 @@
+{
+    "name": "app-movil-backend",
+    "version": "1.0.0",
+    "description": "Backend para la aplicación móvil",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "app-movil-backend": "file:",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "express": "^4.17.1",
+        "mysql2": "^3.11.2",
+        "nodemailer": "^6.9.15",
+        "redis": "^4.7.0",
+        "sequelize": "^6.6.5"
+    }
+}
